@@ -1,0 +1,7 @@
+package NumberOfIslands;
+
+import org.junit.Test;
+
+public class test {
+
+}

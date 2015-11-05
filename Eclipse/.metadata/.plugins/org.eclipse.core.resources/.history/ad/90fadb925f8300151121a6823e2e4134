@@ -1,0 +1,12 @@
+package NumberOfIslands;
+
+import org.junit.Test;
+import org.junit.Assert;
+import org.junit.Assert;
+
+public class test {
+	@Test
+	public test simpleCase(){
+		
+	}
+}
